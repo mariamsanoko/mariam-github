@@ -1,12 +1,5 @@
 # ✨ Mariam Sanoko — Portfolio GitHub 2026
 Portfolio C.D.A, NoCode, I.A
-Voici un **README.md complet en Markdown**, prêt à être copié dans ton GitHub.
-Comme je n’ai pas la liste de tes dépôts GitHub, j’ai ajouté des **sections prêtes à remplir**, structurées proprement pour ton portfolio technique, ton domaine (MS D365, Power Platform, No-Code, Design…), et ton projet majeur *Coach IA No-Code*.
-Tu pourras simplement remplacer chaque `LIEN_DU_REPO` par le lien réel.
-
----
-
-# 
 
 ### *Consultante Fonctionnelle | No-Code Maker | MS D365 CRM | Power Platform | Design & Prototypes UX/UI*
 
