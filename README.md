@@ -122,7 +122,7 @@ Je crée des solutions orientées :
 * **Design systémique**
 * **Impact réel pour les utilisateurs**
 
-Je partage également mes connaissances à travers la **MS D365 French Academy** et le programme **MSI-3600-CATADEMY**, pour démocratiser les outils no-code, Microsoft et IA.
+Je partage également mes connaissances à travers la **MS D365 French Academy** et le programme **MSIA-360-IACADEMY**, pour démocratiser les outils no-code, Microsoft et IA.
 
 ---
 
