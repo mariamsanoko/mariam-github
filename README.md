@@ -40,6 +40,18 @@ Mon objectif : **démocratiser la tech** et proposer des solutions simples, incl
 ## 🧠 **Coach IA No-Code — Application + Backend + Paiement Stripe**
 
 Projet majeur en production 2025 :
+
+
+## 🧠 Coach IA No-Code — Application & Backend
+
+| Module | Description | Technologies | Repo |
+|--------|-------------|--------------|------|
+| **Backend sécurisé** | API, Auth, JWT, 2FA, Stripe | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="30"/> | `LIEN_DU_REPO` |
+| **App Mobile (React Native)** | UI mobile + Paiement + Chatbot IA | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | `LIEN_DU_REPO` |
+| **Documentation UML** | Diagrammes API + flux Stripe | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="30"/> | `LIEN_DU_REPO` |
+
+
+
 **Application mobile React Native (Expo) + Backend sécurisé + Authentification + 2FA + Stripe + Emailing**
 
 🔗 Repo Backend : `LIEN_DU_REPO`
