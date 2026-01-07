@@ -52,9 +52,8 @@ Projet majeur en production 2025 :
 
 ## 📱 2. **Power App — Gestion des Formations (Chatbot intégré + KB Copilot)**
 
+# 📱 Power App — Gestion des Formations
 Application mobile complète + prototype Adobe XD + schéma Dataverse.
-
-## 📱 Power App — Gestion des Formations
 
 | Élément | Technologies | Repo |
 |--------|--------------|------|
@@ -83,25 +82,28 @@ Tous mes prototypes orientés mobile & web :
 
 ## 🔧 **Automatisations No-Code — Make, Airtable, WordPress**
 
+## 🔧 Automatisations No-Code
 Workflows multi-canaux, automatisation des ventes, synchronisation CRM, etc.
 
-* Automatisation Vente Multicanale (Make + Airtable + Ko-fi/Gumroad + WordPress)
-  🔗 `LIEN_DU_REPO`
-
-* Programme d’affiliation MS D365 French Academy (PartnerStack / Make)
-  🔗 `LIEN_DU_REPO`
+| Automatisation | Outils | Repo |
+|----------------|--------|---------|
+| Vente multiplaforme | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30"/> <img src="https://img.icons8.com/color/48/airtable.png" width="30"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/make.com.png" width="30"/> | `LIEN_DU_REPO` |
+| Programme d’affiliation | <img src="https://img.icons8.com/color/48/airtable.png" width="30"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/make.com.png" width="30"/> | `LIEN_DU_REPO` |
+| Automation Video.ai | <img src="https://img.icons8.com/color/48/airtable.png" width="30"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/make.com.png" width="30"/> | `LIEN_DU_REPO` |
+O`
 
 ---
 
 ## 📊 **Power BI — Dashboards & Analyses**
 
+
+### 📊 Power BI — Dashboards business
 Projets analytiques incluant reporting CRM & automatisations :
 
-* Dashboard Formations & Performances
-  🔗 `LIEN_DU_REPO`
-
-* Dashboard Prospection & Ventes
-  🔗 `LIEN_DU_REPO`
+| Dashboard | Outil | Repo |
+|----------|--------|--------|
+| Reporting Formations | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="30"/> | `LIEN_DU_REPO` |
+| Prospection & CRM | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="30"/> | `LIEN_DU_REPO` |
 
 ---
 
@@ -109,11 +111,13 @@ Projets analytiques incluant reporting CRM & automatisations :
 
 Créations graphiques orientées tech et formation :
 
-* Identité visuelle MS D365 French Academy
-  🔗 `LIEN_DU_REPO`
+## 🎨 Design Graphique
 
-* Templates vidéos automatisés Video.ai
-  🔗 `LIEN_DU_REPO`
+| Projet | Logiciel | Repo |
+|--------|----------|--------|
+| Branding MS D365 French Academy | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30"/> | `LIEN_DU_REPO` |
+| Templates vidéos automatisés | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30"/> | `LIEN_DU_REPO` |
+| Charte graphique complète | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-plain.svg" width="30"/> | `LIEN_DU_REPO` |
 
 ---
 
