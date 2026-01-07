@@ -82,12 +82,12 @@ Tous mes prototypes orientés mobile & web :
 ## 🔧 4. **Automatisations No-Code — Make, Airtable, WordPress**
 Workflows multi-canaux, automatisation des ventes, synchronisation CRM, etc.
 
-| Automatisation | Outils | Repo |
+**| Automatisation | Outils | Repo |
 |----------------|--------|---------|
 | Vente multiplaforme | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30"/> <img src="https://img.icons8.com/color/48/airtable.png" width="30"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/make.com.png" width="30"/> | `LIEN_DU_REPO` |
 | Programme d’affiliation | <img src="https://img.icons8.com/color/48/airtable.png" width="30"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/make.com.png" width="30"/> | `LIEN_DU_REPO` |
 | Automation Video.ai | <img src="https://img.icons8.com/color/48/airtable.png" width="30"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/make.com.png" width="30"/> | `LIEN_DU_REPO` |
-O`
+O`**
 
 ---
 
