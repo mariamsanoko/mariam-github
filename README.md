@@ -126,8 +126,9 @@ Je partage également mes connaissances à travers la **MS D365 French Academy**
 
 # 💼 Me contacter
 
-📧 Email : [contact@msprods.fr](mailto:contact@msprods.fr)
-🌐 Site : [https://msprods.fr](https://msprods.fr)
+📧 Email : [contact@msprods.fr](mailto:mariam.sanoko@gmail.com)
+🌐 Boutique : [https://www.msprods.fr](https://www.msprods.fr)
+🌐 Site : [[https://msprods.fr](https://www.mariamsanoko.fr/)]([https://msprods.fr](https://www.mariamsanoko.fr/))
 🔗 LinkedIn : [https://www.linkedin.com/in/mariam-sanoko](https://www.linkedin.com/in/mariam-sanoko)
 
 ---
@@ -135,9 +136,6 @@ Je partage également mes connaissances à travers la **MS D365 French Academy**
 🎉 *Merci de visiter mon GitHub.
 N’hésite pas à explorer mes projets ou à me contacter pour collaborer !*
 
----
 
-Si tu veux, je peux :
-✅ intégrer automatiquement tes vrais liens GitHub si tu me les donnes
 OU
 ✅ créer une version encore plus design avec badges, logos, bannière GitHub, emojis, structure avancée.
