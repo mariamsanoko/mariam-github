@@ -65,8 +65,10 @@ Application mobile complète + prototype Adobe XD + schéma Dataverse.
 ---
 
 ## ✏️ 3. **Prototypes UX/UI — Adobe XD & Figma**
-### 🎨 UX/UI — Prototypes & Identité visuelle
+🎨 UX/UI — Prototypes & Identité visuelle
 Tous mes prototypes orientés mobile & web :
+
+
 | Projet | Outil | Repo |
 |--------|--------|---------|
 | Prototype mobile Power App | <img src="https://img.icons8.com/color/48/adobe-xd.png" width="30"/> | `LIEN_DU_REPO` |
@@ -121,7 +123,7 @@ Je crée des solutions orientées :
 * **Design systémique**
 * **Impact réel pour les utilisateurs**
 
-Je partage également mes connaissances à travers la **MS D365 French Academy** et le programme **MSIA-360-IACADEMY**, pour démocratiser les outils no-code, Microsoft et IA.
+Je partage également mes connaissances à travers la **MS D365 French Academy** et le programme **MS I.A & No Code**, pour démocratiser les outils no-code, Microsoft et IA.
 
 ---
 
