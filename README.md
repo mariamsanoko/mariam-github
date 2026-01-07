@@ -32,9 +32,8 @@ Mon objectif : **démocratiser la tech** et proposer des solutions simples, incl
 * **Language**
   Python • Php • React • JavaScript
 
-* **No-Code & Vibe Coding **
-* ChatGPT • Claude • Perpeplexity • Lovable
-* Airtable • Make • Tally • WordPress • Video.ai
+* **No-Code & Vibe Coding**
+  ChatGPT • Claude • Perpeplexity • Lovable • Airtable • Make • N8N • Tally • WordPress • Video.ai • Render
   
 * **IA & Automatisation avancée**
   Chatbots • n8n • IA générative • Coach IA personnalisé • Automatisation multicanale
@@ -60,7 +59,7 @@ Projet majeur en production 2025 :
 
 ## 📱 2. **Power App — Gestion des Formations (Chatbot intégré + KB Copilot)**
 
-###📱 Power App — Gestion des Formations
+Power App — Gestion des Formations
 Application mobile complète + prototype Adobe XD + schéma Dataverse.
 
 | Élément | Technologies | Repo |
@@ -72,10 +71,9 @@ Application mobile complète + prototype Adobe XD + schéma Dataverse.
 
 ---
 
-## ✏️ 3. **Prototypes UX/UI — Adobe XD & Figma**
-🎨 UX/UI — Prototypes & Identité visuelle
+## 🎨 3. **Prototypes UX/UI — Adobe XD & Figma**
+UX/UI — Prototypes & Identité visuelle
 Tous mes prototypes orientés mobile & web :
-
 
 | Projet | Outil | Repo |
 |--------|--------|---------|
@@ -121,7 +119,6 @@ Créations graphiques orientées tech et formation :
 
 ---
 
- 
 # 🌍 À propos de moi
 
 Je suis Mariam Sanoko, spécialiste en :
