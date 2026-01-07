@@ -113,15 +113,43 @@ Créations graphiques orientées tech et formation :
 | Charte graphique complète | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-plain.svg" width="30"/> | `LIEN_DU_REPO` |
 
 ---
+#🧩 Compétences
+🔹 Power Platform
 
+Power Apps • Power Automate • Copilot Studio • Power Pages • Power BI
+
+🔹 Microsoft Dynamics 365
+
+Sales • Marketing • Customer Voice • Journeys
+
+🔹 No-Code
+
+Airtable • Make • Tally • WordPress • Video.ai
+
+🔹 UX/UI
+
+Figma • Adobe XD • Design System • Prototypes interactifs
+
+🔹 Développement
+
+React Native • JavaScript • APIs • Stripe • Auth
 # 🌍 À propos de moi
 
-Je crée des solutions orientées :
+Je suis Mariam Sanoko, spécialiste en :
 
-* **Inclusion & Accessibilité**
-* **Automatisation intelligente**
-* **Design systémique**
-* **Impact réel pour les utilisateurs**
+Dynamics 365 CRM (Sales, Marketing, Customer Voice)
+
+Power Platform (Power Apps, Power Automate, Power BI, Power Pages, Copilot Studio)
+
+UX/UI Design (Figma, Adobe XD)
+
+No-Code (Airtable, Make, Tally, WordPress)
+
+Développement mobile (React Native, API sécurisée, Stripe)
+
+Automatisation IA & No-Code pour créateurs, formateurs et petites entreprises.
+
+🎯 Mon objectif : créer des solutions inclusives, accessibles, automatisées, rentables et élégantes.
 
 Je partage également mes connaissances à travers la **MS D365 French Academy** et le programme **MS I.A & No Code**, pour démocratiser les outils no-code, Microsoft et IA.
 
