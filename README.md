@@ -135,7 +135,3 @@ Je partage également mes connaissances à travers la **MS D365 French Academy**
 
 🎉 *Merci de visiter mon GitHub.
 N’hésite pas à explorer mes projets ou à me contacter pour collaborer !*
-
-
-OU
-✅ créer une version encore plus design avec badges, logos, bannière GitHub, emojis, structure avancée.
