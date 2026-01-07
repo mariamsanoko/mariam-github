@@ -126,9 +126,9 @@ Je partage également mes connaissances à travers la **MS D365 French Academy**
 
 # 💼 Me contacter
 
-📧 Email : [contact@msprods.fr](mailto:mariam.sanoko@gmail.com)
+📧 Email : [mariam.sanoko@gmail.com](mailto:mariam.sanoko@gmail.com)
 🌐 Boutique : [https://www.msprods.fr](https://www.msprods.fr)
-🌐 Site : [[https://msprods.fr](https://www.mariamsanoko.fr/)]([https://msprods.fr](https://www.mariamsanoko.fr/))
+🌐 Site : [[(https://www.mariamsanoko.fr/](https://www.mariamsanoko.fr/)]
 🔗 LinkedIn : [https://www.linkedin.com/in/mariam-sanoko](https://www.linkedin.com/in/mariam-sanoko)
 
 ---
