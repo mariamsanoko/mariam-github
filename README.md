@@ -38,7 +38,7 @@ Mon objectif : **démocratiser la tech** et proposer des solutions simples, incl
 ---
 Projet majeur en production 2025 :
 
-## 🧠 **Coach IA No-Code — Application + Backend + Paiement Stripe**
+## 🧠 1. **Coach IA No-Code — Application + Backend + Paiement Stripe**
 
 **Application mobile React Native (Expo) + Backend sécurisé + Authentification + 2FA + Stripe + Emailing**
 
@@ -50,12 +50,18 @@ Projet majeur en production 2025 :
 
 ---
 
-## 📱 **Power App — Gestion des Formations (Chatbot intégré + KB Copilot)**
+## 📱 2. **Power App — Gestion des Formations (Chatbot intégré + KB Copilot)**
 
 Application mobile complète + prototype Adobe XD + schéma Dataverse.
 
-🔗 Repo Power App / Solution ALM : `LIEN_DU_REPO`
-🔗 Repo Knowledge Base Excel (tarifs & formations) : `LIEN_DU_REPO`
+## 📱 Power App — Gestion des Formations
+
+| Élément | Technologies | Repo |
+|--------|--------------|------|
+| Solution Power Apps (ALM) | <img src="https://img.icons8.com/color/48/power-apps.png" width="30"/> | `LIEN_DU_REPO` |
+| Base de connaissances (Excel) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="30"/> | `LIEN_DU_REPO` |
+| Architecture Dataverse + Chatbot Copilot | <img src="https://img.icons8.com/color/48/microsoft-dataverse.png" width="30"/> <img src="https://img.icons8.com/color/48/bot.png" width="30"/> | `LIEN_DU_REPO` |
+
 
 ---
 
@@ -63,17 +69,15 @@ Application mobile complète + prototype Adobe XD + schéma Dataverse.
 
 Tous mes prototypes orientés mobile & web :
 
-* Prototype Mobile Power App – V1
-  🔗 `LIEN_DU_REPO`
+## 🎨 UX/UI — Prototypes & Identité visuelle
 
-* Carrousel LinkedIn Automatisé (Figma + Import CSV)
-  🔗 `LIEN_DU_REPO`
+| Projet | Outil | Repo |
+|--------|--------|---------|
+| Prototype mobile Power App | <img src="https://img.icons8.com/color/48/adobe-xd.png" width="30"/> | `LIEN_DU_REPO` |
+| Carrousel LinkedIn Auto (CSV → Figma) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/> | `LIEN_DU_REPO` |
+| Bannière LinkedIn MSProds | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/> | `LIEN_DU_REPO` |
+| Identité visuelle Clic2Mode | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/> | `LIEN_DU_REPO` |
 
-* Nouvelle bannière LinkedIn & Branding MSProds
-  🔗 `LIEN_DU_REPO`
-
-* Maquettes Clic2Mode – Identité visuelle
-  🔗 `LIEN_DU_REPO`
 
 ---
 
