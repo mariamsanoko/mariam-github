@@ -36,27 +36,17 @@ Mon objectif : **démocratiser la tech** et proposer des solutions simples, incl
 # 📁 Mes projets GitHub
 
 ---
+Projet majeur en production 2025 :
 
 ## 🧠 **Coach IA No-Code — Application + Backend + Paiement Stripe**
 
-Projet majeur en production 2025 :
-
-
-## 🧠 Coach IA No-Code — Application & Backend
+**Application mobile React Native (Expo) + Backend sécurisé + Authentification + 2FA + Stripe + Emailing**
 
 | Module | Description | Technologies | Repo |
 |--------|-------------|--------------|------|
 | **Backend sécurisé** | API, Auth, JWT, 2FA, Stripe | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="30"/> | `LIEN_DU_REPO` |
 | **App Mobile (React Native)** | UI mobile + Paiement + Chatbot IA | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | `LIEN_DU_REPO` |
 | **Documentation UML** | Diagrammes API + flux Stripe | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="30"/> | `LIEN_DU_REPO` |
-
-
-
-**Application mobile React Native (Expo) + Backend sécurisé + Authentification + 2FA + Stripe + Emailing**
-
-🔗 Repo Backend : `LIEN_DU_REPO`
-🔗 Repo App Mobile : `LIEN_DU_REPO`
-🔗 Documentation API & UML : `LIEN_DU_REPO`
 
 ---
 
@@ -140,7 +130,7 @@ Je partage également mes connaissances à travers la **MS D365 French Academy**
 
 📧 Email : [mariam.sanoko@gmail.com](mailto:mariam.sanoko@gmail.com)
 🌐 Boutique : [https://www.msprods.fr](https://www.msprods.fr)
-🌐 Site : [https://www.mariamsanoko.fr/](https://www.mariamsanoko.fr]
+🌐 Site : [https://www.mariamsanoko.fr/](https://www.mariamsanoko.fr)
 🔗 LinkedIn : [https://www.linkedin.com/in/mariam-sanoko](https://www.linkedin.com/in/mariam-sanoko)
 
 ---
