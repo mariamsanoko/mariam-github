@@ -52,7 +52,7 @@ Projet majeur en production 2025 :
 
 ## 📱 2. **Power App — Gestion des Formations (Chatbot intégré + KB Copilot)**
 
-# 📱 Power App — Gestion des Formations
+###📱 Power App — Gestion des Formations
 Application mobile complète + prototype Adobe XD + schéma Dataverse.
 
 | Élément | Technologies | Repo |
@@ -64,12 +64,9 @@ Application mobile complète + prototype Adobe XD + schéma Dataverse.
 
 ---
 
-## ✏️ **Prototypes UX/UI — Adobe XD & Figma**
-
+## ✏️ 3. **Prototypes UX/UI — Adobe XD & Figma**
+### 🎨 UX/UI — Prototypes & Identité visuelle
 Tous mes prototypes orientés mobile & web :
-
-## 🎨 UX/UI — Prototypes & Identité visuelle
-
 | Projet | Outil | Repo |
 |--------|--------|---------|
 | Prototype mobile Power App | <img src="https://img.icons8.com/color/48/adobe-xd.png" width="30"/> | `LIEN_DU_REPO` |
@@ -80,9 +77,7 @@ Tous mes prototypes orientés mobile & web :
 
 ---
 
-## 🔧 **Automatisations No-Code — Make, Airtable, WordPress**
-
-## 🔧 Automatisations No-Code
+## 🔧 4. **Automatisations No-Code — Make, Airtable, WordPress**
 Workflows multi-canaux, automatisation des ventes, synchronisation CRM, etc.
 
 | Automatisation | Outils | Repo |
@@ -94,10 +89,8 @@ O`
 
 ---
 
-## 📊 **Power BI — Dashboards & Analyses**
-
-
-### 📊 Power BI — Dashboards business
+## 📊 5. **Power BI — Dashboards & Analyses**
+Power BI — Dashboards business
 Projets analytiques incluant reporting CRM & automatisations :
 
 | Dashboard | Outil | Repo |
@@ -107,11 +100,9 @@ Projets analytiques incluant reporting CRM & automatisations :
 
 ---
 
-## 🎨 **Projets Design (Illustrator, XD, Photoshop, InDesign)**
-
-Créations graphiques orientées tech et formation :
-
-## 🎨 Design Graphique
+## 🎨 6. **Projets Design (Illustrator, XD, Photoshop, InDesign)**
+Design Graphique 
+Créations graphiques orientées tech et formation : 
 
 | Projet | Logiciel | Repo |
 |--------|----------|--------|
