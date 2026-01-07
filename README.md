@@ -9,15 +9,16 @@ Je conçois des applications intelligentes, des automatisations métier, des pro
 
 Mon objectif : **démocratiser la tech** et proposer des solutions simples, inclusives et performantes.
 
+
 ---
 
 ## 🚀 Mes domaines d’expertise
 
 * **Microsoft Power Platform**
-  (Power Apps • Power Automate • Power BI • Power Pages • Copilot Studio)
+  (Power Apps • Power Automate • Power BI • Power Pages • Copilot Studio) 
 
 * **Microsoft Dynamics 365 CRM**
-  (Sales • Marketing • Customer Voice)
+  (Sales • Marketing • Customer Voice • Journeys  • Sales Accelerator)
 
 * **Écosystème No-Code**
   Make • Airtable • Tally • WordPress • Automatisations multi-plateformes
@@ -28,8 +29,15 @@ Mon objectif : **démocratiser la tech** et proposer des solutions simples, incl
 * **Développement**
   JavaScript • React/React Native (Expo) • API sécurisée • Stripe
 
+* **Language**
+  Python • Php • React • JavaScript
+
+* **No-Code & Vibe Coding **
+* ChatGPT • Claude • Perpeplexity • Lovable
+* Airtable • Make • Tally • WordPress • Video.ai
+  
 * **IA & Automatisation avancée**
-  Chatbots • IA générative • Coach IA personnalisé • Automatisation multicanale
+  Chatbots • n8n • IA générative • Coach IA personnalisé • Automatisation multicanale
 
 ---
 
@@ -112,26 +120,8 @@ Créations graphiques orientées tech et formation :
 | Charte graphique complète | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-plain.svg" width="30"/> | `LIEN_DU_REPO` |
 
 ---
-#🧩 Compétences
-🔹 Power Platform
 
-Power Apps • Power Automate • Copilot Studio • Power Pages • Power BI
-
-🔹 Microsoft Dynamics 365
-
-Sales • Marketing • Customer Voice • Journeys
-
-🔹 No-Code
-
-Airtable • Make • Tally • WordPress • Video.ai
-
-🔹 UX/UI
-
-Figma • Adobe XD • Design System • Prototypes interactifs
-
-🔹 Développement
-
-React Native • JavaScript • APIs • Stripe • Auth
+ 
 # 🌍 À propos de moi
 
 Je suis Mariam Sanoko, spécialiste en :
